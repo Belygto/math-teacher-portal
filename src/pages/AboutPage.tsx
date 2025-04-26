@@ -29,7 +29,7 @@ const AboutPage = () => {
                   <Card className="overflow-hidden mb-6">
                     <div className="aspect-square bg-gray-100 relative">
                       <img 
-                        src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" 
+                        src="https://cdn.poehali.dev/files/c2a5f62a-46ee-4dd8-a7b6-634d5fc70c63.jpg" 
                         alt="Рима, преподаватель математики" 
                         className="w-full h-full object-cover"
                       />

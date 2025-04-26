@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="animate-fade-in">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-              Математика с <span className="text-math-blue">Иваном Ивановым</span>
+              Математика с <span className="text-math-blue">Римой Лыксыковной</span>
             </h1>
             <p className="text-xl text-gray-700 mb-8">
               Индивидуальный подход к обучению математике. 

@@ -8,6 +8,7 @@ import NotFound from "./pages/NotFound";
 import StudentsPage from "./pages/StudentsPage";
 import ParentsPage from "./pages/ParentsPage";
 import GalleryPage from "./pages/GalleryPage";
+import AboutPage from "./pages/AboutPage";
 
 const queryClient = new QueryClient();
 
@@ -19,7 +20,7 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
-          <Route path="/about" element={<NotFound />} />
+          <Route path="/about" element={<AboutPage />} />
           <Route path="/students" element={<StudentsPage />} />
           <Route path="/parents" element={<ParentsPage />} />
           <Route path="/blog" element={<NotFound />} />

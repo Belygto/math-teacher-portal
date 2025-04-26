@@ -30,7 +30,7 @@ const AboutPage = () => {
                     <div className="aspect-square bg-gray-100 relative">
                       <img 
                         src="https://cdn.poehali.dev/files/c2a5f62a-46ee-4dd8-a7b6-634d5fc70c63.jpg" 
-                        alt="Рима, преподаватель математики" 
+                        alt= "преподаватель математики" 
                         className="w-full h-full object-cover"
                       />
                     </div>
